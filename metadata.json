@@ -1,0 +1,5 @@
+{
+  "name": "Pesquisa de Profundidade",
+  "description": "Uma ferramenta de pesquisa para Google e Bing que permite adicionar um parâmetro de 'profundidade' às suas buscas, baseado em um código JSON. Ideal para pesquisas especializadas e de IA.",
+  "requestFramePermissions": []
+}
